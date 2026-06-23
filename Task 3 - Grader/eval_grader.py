@@ -50,7 +50,7 @@ The solution is always to make the model larger.
         "expected": {
             "overall_min": 1,
             "overall_max": 2,
-            "safety_min": 3,
+            "safety_max": 3,
         },
     },
     {
